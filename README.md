@@ -23,8 +23,8 @@ An AI-powered web application that transcribes and summarizes audio recordings u
 📦 Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/audio-summarizer-bot.git
-cd audio-summarizer-bot
+git clone https://github.com/ROSHINI-076/AUDIO-SUMMARAIZATION-WITH-AI.git
+cd AUDIO-SUMMARAIZATION-WITH-AI
 
 2. Install dependencies:
 pip install flask openai-whisper nltk transformers torch scikit-learn networkx
